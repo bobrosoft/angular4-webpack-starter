@@ -35,6 +35,7 @@ npm start
  - git-friendly `.editorconfig` settings
  - npm: `lint` task has tests excluded from linting process
  - npm: added `lint-fix` task if you want linter to auto-fix your linting issues (but be careful, it can break the code sometimes)
+ - npm: `server` task now removes `compiled` directory, because it can lead to different issues
  - HMR is removed (you can add it back if you want)
  - npm: next packages removed: `@angularclass/conventions-loader`, `@angularclass/hmr`, `@angularclass/hmr-loader`
 
