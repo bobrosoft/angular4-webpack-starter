@@ -89,7 +89,7 @@
   "devDependencies": {
     "@angular/compiler-cli": "^4.3.0",
     "@types/hammerjs": "^2.0.34",
-    "@types/jasmine": "^2.5.45",
+    "@types/jasmine": "2.5.45",
     "@types/node": "^7.0.0",
     "@types/selenium-webdriver": "~2.53.39",
     "@types/source-map": "^0.5.0",
